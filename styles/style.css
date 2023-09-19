@@ -46,7 +46,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 5% 15%;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .apresentacao__conteudo {
